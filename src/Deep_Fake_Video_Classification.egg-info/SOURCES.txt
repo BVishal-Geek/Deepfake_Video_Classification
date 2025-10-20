@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/Deep_Fake_Video_Classification/__init__.py
+src/Deep_Fake_Video_Classification.egg-info/PKG-INFO
+src/Deep_Fake_Video_Classification.egg-info/SOURCES.txt
+src/Deep_Fake_Video_Classification.egg-info/dependency_links.txt
+src/Deep_Fake_Video_Classification.egg-info/top_level.txt
+src/Deep_Fake_Video_Classification/components/__init__.py
+src/Deep_Fake_Video_Classification/config/__init__.py
+src/Deep_Fake_Video_Classification/config/configuration.py
+src/Deep_Fake_Video_Classification/constants/__init__.py
+src/Deep_Fake_Video_Classification/entity/__init__.py
+src/Deep_Fake_Video_Classification/pipeline/__init__.py
+src/Deep_Fake_Video_Classification/utils/__init__.py
+src/Deep_Fake_Video_Classification/utils/functions.py

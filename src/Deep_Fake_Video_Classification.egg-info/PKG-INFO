@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: Deep_Fake_Video_Classification
+Version: 0.0.0
+Summary: A python package for deep fake video classification.
+Home-page: https://github.com/BVishal-Geek/Deep_Fake_Video_Classification
+Author: BVishal-Geek
+Author-email: vishal.bakshi@gwu.edu
+Project-URL: Bug Tracker, https://github.com/BVishal-Geek/Deep_Fake_Video_Classification/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Deep Fake Video Classification

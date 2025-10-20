@@ -1,0 +1,10 @@
+location:
+  real: /Users/vishal/Desktop/Way to New World/University/01_All_Semesters/03_Semester/DL/archive/data/Celeb-real
+  fake: /Users/vishal/Desktop/Way to New World/University/01_All_Semesters/03_Semester/DL/archive/data/Celeb-synthesis
+  home: /Users/vishal/PycharmProjects/Deep Fake Video Classification
+
+split:
+  train: 0.70
+  test: 0.15
+  validation: 0.15
+
